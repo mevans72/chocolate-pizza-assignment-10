@@ -1,35 +1,55 @@
-* {
-  /*margin: 0;
-  padding: 150;*/
+/** {
+  margin: 0;
+  padding: 150;
   border: 1px dashed black;
-}
+}*/
 
 .delicious-title {
   font-family: cursive;
   font-size: 20px;
-  margin-left: 40px;
+  margin-left: 0px;
   margin-top: 0px;
   margin-bottom: 0px;
-  top: 0px:
+  top: 0px;
+  display: inline;
+
+}
+
+.delicious-img {
+  margin-left: 0px;
+  margin-top: 10px;
+  margin-bottom: 0px;
+  display: inline;
+
 }
 
 .delicious-text {
   font-family: sans-serif;
   font-size: 10px;
   margin-top: 0px;
+  margin-bottom: 0px;
   margin-left: 40px;
+
 }
 
 .choco-pizza-png {
   width: 95%;
   margin-top: 0px;
   margin-right: 20px;
+  display: inline;
+}
+
+.print-icon {
+  display: inline;
+  float: right;
 }
 
 .choco-pizza-title {
   font-family: helvetica;
   text-align: left;
   margin-bottom: 0px;
+  margin-top: 0px;
+  border-top: 5px solid grey;
 }
 
 .choco-pizza-posted {
@@ -42,6 +62,7 @@
 
 .header-div {
   display: inline;
+  top: 0px;
 }
 
 /*.top-left-text {
@@ -52,7 +73,11 @@ top: 0px;
 
 .top-right-images {
   float: right;
+  margin: 0px;
+  display: inline;
 }
+
+
 
 /*h3.pull-left {
   top: 0px;
