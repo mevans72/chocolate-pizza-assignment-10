@@ -1,0 +1,60 @@
+* {
+  /*margin: 0;
+  padding: 150;*/
+  border: 1px dashed black;
+}
+
+h3.delicious-title {
+  margin-left: 40px;
+  margin-top: 10px;
+  margin-bottom: 0px;
+}
+
+.delicious-text {
+  margin-top: 0px;
+  margin-left: 40px;
+}
+
+.top-left-text {
+display: inline;
+margin: 0px;
+position: fixed;
+top: 0px;
+}
+
+.top-right-images {}
+
+/*h3.pull-left {
+  top: 0px;
+  text-align: left;
+  margin: 0px;
+  display: inline;
+}*/
+
+/*.pull-left {
+  display: inline
+}*/
+
+/*.pull-right {
+  display: inline;
+  float: right;
+}
+*/
+/*div.pull-left {
+  padding: 0px;
+}*/
+
+/*h3.pull-left {
+  /*margin: 0px 100px 100px 0px;*/
+  /*position: relative;*/
+  /*bottom: 15px;*/
+  /*display: inline;
+  margin-left: 20px:
+  top: 0px;
+}
+*/
+/*img.pull-left {*/
+  /*margin: 0px 100px 100px 0px;*/
+  position: relative;
+  display: inline;
+}*/*/
