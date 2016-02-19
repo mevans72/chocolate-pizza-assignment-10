@@ -4,25 +4,55 @@
   border: 1px dashed black;
 }
 
-h3.delicious-title {
+.delicious-title {
+  font-family: cursive;
+  font-size: 20px;
   margin-left: 40px;
-  margin-top: 10px;
+  margin-top: 0px;
   margin-bottom: 0px;
+  top: 0px:
 }
 
 .delicious-text {
+  font-family: sans-serif;
+  font-size: 10px;
   margin-top: 0px;
   margin-left: 40px;
 }
 
-.top-left-text {
-display: inline;
-margin: 0px;
-position: fixed;
-top: 0px;
+.choco-pizza-png {
+  width: 95%;
+  margin-top: 0px;
+  margin-right: 20px;
 }
 
-.top-right-images {}
+.choco-pizza-title {
+  font-family: helvetica;
+  text-align: left;
+  margin-bottom: 0px;
+}
+
+.choco-pizza-posted {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-family: sans-serif;
+  font-size: 10px;
+
+}
+
+.header-div {
+  display: inline;
+}
+
+/*.top-left-text {
+display: inline;
+margin: 0px;
+top: 0px;
+}*/
+
+.top-right-images {
+  float: right;
+}
 
 /*h3.pull-left {
   top: 0px;
