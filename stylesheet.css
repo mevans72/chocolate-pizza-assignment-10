@@ -12,38 +12,30 @@
   margin-bottom: 0px;
   top: 0px;
   display: inline;
-
 }
-
 .delicious-img {
   margin-left: 0px;
-  margin-top: 10px;
+  margin-top: 0px;
   margin-bottom: 0px;
   display: inline;
-
 }
-
 .delicious-text {
   font-family: sans-serif;
   font-size: 10px;
   margin-top: 0px;
-  margin-bottom: 0px;
+  margin-bottom: 10px;
   margin-left: 40px;
-
 }
-
 .choco-pizza-png {
   width: 95%;
   margin-top: 0px;
   margin-right: 20px;
   display: inline;
 }
-
 .print-icon {
   display: inline;
   float: right;
 }
-
 .choco-pizza-title {
   font-family: helvetica;
   text-align: left;
@@ -51,65 +43,52 @@
   margin-top: 0px;
   border-top: 5px solid grey;
 }
-
 .choco-pizza-posted {
   margin-top: 0px;
   margin-bottom: 0px;
   font-family: sans-serif;
   font-size: 10px;
-
 }
-
 .header-div {
   display: inline;
   top: 0px;
 }
-
-/*.top-left-text {
-display: inline;
-margin: 0px;
-top: 0px;
-}*/
-
 .top-right-images {
   float: right;
-  margin: 0px;
+  margin-bottom: 0px;
+  margin-top: 0px;
   display: inline;
 }
-
-
-
-/*h3.pull-left {
-  top: 0px;
-  text-align: left;
+.full-list-one {
+  font-family: calibri;
+  display: inline;
   margin: 0px;
-  display: inline;
-}*/
 
-/*.pull-left {
-  display: inline
-}*/
-
-/*.pull-right {
+}
+.full-list-two {
+  font-family: calibri;
   display: inline;
+
+}
+.indent-p {
+  text-indent: 25px;
+  font-family: times;
+  font-size: 15px;
+}
+.small-text {
+  font-size: 5px;
+}
+
+.recipe {
+  background-image: url('lab-assets/list-bg.png');
+  background-color: transparent;
+}
+
+.share-recipe-button {
   float: right;
 }
-*/
-/*div.pull-left {
-  padding: 0px;
-}*/
 
-/*h3.pull-left {
-  /*margin: 0px 100px 100px 0px;*/
-  /*position: relative;*/
-  /*bottom: 15px;*/
-  /*display: inline;
-  margin-left: 20px:
-  top: 0px;
+.van-name, .van-p {
+  margin-left: 75px;
+  margin-top: 0px;
 }
-*/
-/*img.pull-left {*/
-  /*margin: 0px 100px 100px 0px;*/
-  position: relative;
-  display: inline;
-}*/*/
